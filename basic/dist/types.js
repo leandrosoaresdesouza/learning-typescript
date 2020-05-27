@@ -36,3 +36,9 @@ function error() {
 // object
 var cart;
 cart = { key: "fi" };
+// Type Inference
+var message2 = "defined message";
+message2 = "new string";
+window.addEventListener("click", function (e) {
+    console.log(e.target);
+});
