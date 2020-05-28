@@ -47,4 +47,6 @@ const $: JQuery = {
   b: "foo",
 };
 
-// advantages: when creating libs, prefer Interface because it's more extensives
+// advantages: when creating libs, prefer Interface because it's more extensives!
+
+// creating objects/classes (POO)
